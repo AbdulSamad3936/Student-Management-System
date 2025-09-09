@@ -1,0 +1,41 @@
+Student Management System
+
+📌 Overview
+This is a Java console-based Student Management System project.
+It allows users to manage student records through a simple text-based menu.
+The project demonstrates Core Java concepts such as:
+Object-Oriented Programming (OOP)
+Arrays / Collections
+Methods and loops
+Basic CRUD (Create, Read, Update, Delete) operations
+
+✨ Features:
+ Add new student
+ View all students
+ Search student by ID
+ Update student details
+ Delete student record
+ Exit the system
+
+Compile the code:
+javac StudentManagementSystem.java
+
+Run the program:
+java StudentManagementSystem
+
+🎯 Sample Output
+==== Student Management System ====
+1. Add Student
+2. View Students
+3. Search Student
+4. Update Student
+5. Delete Student
+6. Exit
+Enter your choice:
+
+📖 Learning Outcome
+This project helped me strengthen:
+Java basics
+OOP design
+Logic building and problem solving
+Console-based application development.
